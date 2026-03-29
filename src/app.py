@@ -48,6 +48,7 @@ if __name__ == "__main__":
 
     directory = add_student(directory, "Tushar Prabhu", "MCA")
     directory = add_student(directory, "Workshop Student", "MCA")
+    directory = add_student(directory, "Hanson Vaz", "MCA")
 
     list_students(directory)
 
